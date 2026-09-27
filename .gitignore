@@ -1,0 +1,19 @@
+# C
+*.o
+*.out
+*.exe
+
+# Java
+*.class
+target/
+build/
+out/
+
+# Neovim / Vim
+*.swp
+*.swo
+*.swn
+
+# OS
+.DS_Store
+Thumbs.db
